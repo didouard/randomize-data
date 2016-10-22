@@ -1,0 +1,24 @@
+{
+  "name": "randomize-form",
+  "version": "1.0.0",
+  "description": "Randomize form's data, usefull on developping form",
+  "main": "randomize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didouard/randomize-data.git"
+  },
+  "keywords": [
+    "randomize",
+    "form",
+    "dev"
+  ],
+  "author": "Edouard FERRARI <edouard@ferrari.wf>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didouard/randomize-data/issues"
+  },
+  "homepage": "https://github.com/didouard/randomize-data#readme"
+}
